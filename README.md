@@ -3,7 +3,7 @@
 <p align="left">
   <b>University of Southern California</b><br>
   <i>Passionate about AI, Machine Learning, Full-Stack Development, and Cybersecurity</i><br><br>
-  🌎 Los Angeles, CA | 🎓 USC | 💡 Happy coding in the rest of my life~
+  🌎 Vancouver, BC | 🎓 BCIT | Master of Applied Computing
 </p>
 
 ---
