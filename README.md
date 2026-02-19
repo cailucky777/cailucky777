@@ -1,7 +1,7 @@
 <h1 align="left">👩‍💻 Hi, I'm Savina Cai</h1>
 
 <p align="left">
-  <b>University of Southern California</b><br>
+  <b>British Columbia Institute of Technology</b><br>
   <i>Passionate about AI, Machine Learning, Full-Stack Development, and Cybersecurity</i><br><br>
   🌎 Vancouver, BC | 🎓 BCIT | Master of Applied Computing
 </p>
@@ -77,15 +77,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,swift,html,css,linux,git,github,mysql,pytorch,tensorflow,vscode,nextjs,react,nodejs&perline=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cailucky777&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cailucky777&layout=compact&theme=tokyonight&hide_border=true" width="49%">
 </p>
 
 ---
