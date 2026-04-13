@@ -10,7 +10,7 @@
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=MS+Analytics+%40+USC+%7C+MSc+Applied+Computing+%40+BCIT+%7C+BS+CS+%40+UOregon;AI+%2F+ML+%E2%80%A2+Full-Stack+%E2%80%A2+iOS+%2F+AR+%E2%80%A2+Data+Analytics+%E2%80%A2+Cybersecurity;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=UOregon+%E2%86%92+USC+%E2%86%92+BCIT+%7C+Triple+Degree+Holder+%F0%9F%8E%93;AI+%2F+ML+%E2%80%A2+Full-Stack+%E2%80%A2+iOS+%E2%80%A2+Data+Analytics;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,16 +32,16 @@
 ```yaml
 name: Savina (Luying) Cai
 located_in: Vancouver, BC, Canada
-education:
+education:  # chronological order
+  - degree: BSc Computer & Information Science
+    school: University of Oregon 🦆
+    focus: Systems, Scientific Visualization, Operating Systems
   - degree: MS in Analytics
     school: University of Southern California (USC) ✌️
     focus: Data Analytics, Machine Learning, Statistical Modeling
-  - degree: MSc Applied Computing
+  - degree: MSc Applied Computing          # ← current
     school: British Columbia Institute of Technology (BCIT)
     focus: Applied AI, Data Science, Cybersecurity
-  - degree: BSc Computer & Information Science
-    school: University of Oregon
-    focus: Systems, Scientific Visualization, Operating Systems
 
 current_roles:
   - 🔬 AI/ML Researcher — Explainable AI, Computer Vision, Medical Imaging
@@ -246,22 +246,25 @@ LangChain-powered CLI assistant for **local document Q&A** with vector retrieval
 
 <table>
 <tr>
-<td>✌️</td>
-<td><b>University of Southern California (USC)</b></td>
-<td>MS in Analytics</td>
-<td>Data Analytics · ML · Statistical Modeling</td>
-</tr>
-<tr>
 <td>🏛️</td>
 <td><b>British Columbia Institute of Technology</b></td>
 <td>MSc Applied Computing</td>
 <td>AI · Data Science · Cybersecurity</td>
+<td><code>Current</code></td>
+</tr>
+<tr>
+<td>✌️</td>
+<td><b>University of Southern California (USC)</b></td>
+<td>MS in Analytics</td>
+<td>Data Analytics · ML · Statistical Modeling</td>
+<td></td>
 </tr>
 <tr>
 <td>🦆</td>
 <td><b>University of Oregon</b></td>
 <td>BSc Computer & Information Science</td>
 <td>Systems · Visualization · OS · Databases</td>
+<td></td>
 </tr>
 </table>
 
