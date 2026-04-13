@@ -4,7 +4,7 @@
 
 <!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Savina%20(Luying)%20Cai&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=UOregon%20%E2%86%92%20USC%20%E2%86%92%20BCIT%20%7C%20SDE%20%7C%20AI%20Researcher%20%7C%20Data%20Analyst&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Savina%20(Luying)%20Cai&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=UOregon%20%E2%86%92%20USC%20%E2%86%92%20BCIT%20%7C%20AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Scientist&descAlignY=52&descSize=18" width="100%"/>
 </p>
 
 <!-- TYPING SVG -->
@@ -57,8 +57,8 @@ currently_building:
   - 🌍 TeamSync Polyglot — real-time meeting AI with Google Gemma
   - 📚 Open-source CS curriculum for K-12 students
 
-looking_for: "Full-Stack AI Engineer roles at top tech companies 🚀"
-fun_fact: "I ship AI products AND teach kids to code — yes, both 😄"
+open_to: "Full-Stack AI Engineer · ML Engineer · Software Engineer"
+fun_fact: "I ship AI products on weekdays and teach kids to code on weekends 😄"
 ```
 
 <br>
@@ -334,7 +334,7 @@ Static malware analysis using **LightGBM** (EMBER) & **ResNet-18** (Malimg) with
 🔬 Research       Explainable AI — SHAP + Grad-CAM for model interpretability
 🌍 Shipping       Full-stack AI products (Next.js + LLM integration)
 📚 Teaching       K-12 students Swift, Unity, and computational thinking
-🎯 Targeting      Full-Stack AI Engineer roles at top-tier tech companies
+🎯 Open to        Full-Stack AI Engineer · ML Engineer · SDE opportunities
 ```
 
 <br>
@@ -351,7 +351,7 @@ Static malware analysis using **LightGBM** (EMBER) & **ResNet-18** (Malimg) with
 </p>
 
 <p align="center">
-  <b>💬 Open to:</b> Full-Stack AI Engineer / ML Engineer / SDE roles · AI Research collaborations · Open-source contributions · Mentoring
+  <b>💬 Open to:</b> Full-Stack AI Engineer · ML Engineer · SDE roles
 </p>
 
 <br>
