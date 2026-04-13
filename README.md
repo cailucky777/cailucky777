@@ -222,20 +222,26 @@ Static malware analysis using **LightGBM** (EMBER) & **ResNet-18** (Malimg) with
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
-<!-- TROPHY -->
+<!-- STREAK — most reliable, keep on top -->
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com/?user=cailucky777&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- STATS + LANGUAGES — using multiple mirrors for reliability -->
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cailucky777&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cailucky777&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cailucky777&layout=compact&theme=algolia&hide_border=true&langs_count=10&hide=jupyter%20notebook" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cailucky777&layout=compact&theme=algolia&hide_border=true&langs_count=10&hide=jupyter%20notebook" alt="Top Languages"/>
+  </picture>
+</p>
+
+<!-- TROPHY — using mirror -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cailucky777&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
-
-<!-- STATS + LANGUAGES -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cailucky777&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cailucky777&layout=compact&theme=algolia&hide_border=true&langs_count=10&hide=jupyter%20notebook" alt="Top Languages"/>
-</p>
-
-<!-- STREAK -->
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=cailucky777&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- ACTIVITY GRAPH -->
