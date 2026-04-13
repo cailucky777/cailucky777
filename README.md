@@ -4,13 +4,13 @@
 
 <!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Savina%20(Luying)%20Cai&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Researcher%20%7C%20CS%20Educator&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Savina%20(Luying)%20Cai&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=USC%20%7C%20Software%20Engineer%20%7C%20AI%20Researcher%20%7C%20Data%20Analyst%20%7C%20CS%20Educator&descAlignY=52&descSize=18" width="100%"/>
 </p>
 
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=MSc+Applied+Computing+%40+BCIT+%7C+BSc+CS+%40+UOregon;AI+%2F+ML+%E2%80%A2+Full-Stack+%E2%80%A2+iOS+%2F+AR+%E2%80%A2+Cybersecurity;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=MS+Analytics+%40+USC+%7C+MSc+Applied+Computing+%40+BCIT+%7C+BS+CS+%40+UOregon;AI+%2F+ML+%E2%80%A2+Full-Stack+%E2%80%A2+iOS+%2F+AR+%E2%80%A2+Data+Analytics+%E2%80%A2+Cybersecurity;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,6 +18,7 @@
 <p align="center">
   <a href="https://cailucky777.github.io/"><img src="https://img.shields.io/badge/Portfolio-cailucky777.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/cailucky777"><img src="https://img.shields.io/badge/GitHub-cailucky777-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/savina-cai/"><img src="https://img.shields.io/badge/LinkedIn-Savina_Cai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="mailto:savinacai@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=cailucky777&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
@@ -32,6 +33,9 @@
 name: Savina (Luying) Cai
 located_in: Vancouver, BC, Canada
 education:
+  - degree: MS in Analytics
+    school: University of Southern California (USC) ✌️
+    focus: Data Analytics, Machine Learning, Statistical Modeling
   - degree: MSc Applied Computing
     school: British Columbia Institute of Technology (BCIT)
     focus: Applied AI, Data Science, Cybersecurity
@@ -41,6 +45,7 @@ education:
 
 current_roles:
   - 🔬 AI/ML Researcher — Explainable AI, Computer Vision, Medical Imaging
+  - 📊 Data Analyst — Statistical Modeling, Predictive Analytics, Visualization
   - 💻 Full-Stack Engineer — Next.js, React, TypeScript, Swift
   - 📱 iOS Developer — SwiftUI, ARKit, RealityKit
   - 🛡️ Security Analyst — Static/Dynamic Malware Analysis
@@ -241,6 +246,12 @@ LangChain-powered CLI assistant for **local document Q&A** with vector retrieval
 
 <table>
 <tr>
+<td>✌️</td>
+<td><b>University of Southern California (USC)</b></td>
+<td>MS in Analytics</td>
+<td>Data Analytics · ML · Statistical Modeling</td>
+</tr>
+<tr>
 <td>🏛️</td>
 <td><b>British Columbia Institute of Technology</b></td>
 <td>MSc Applied Computing</td>
@@ -254,7 +265,7 @@ LangChain-powered CLI assistant for **local document Q&A** with vector retrieval
 </tr>
 </table>
 
-**Key Coursework:** Deep Learning · Computer Vision · Operating Systems · Database Systems · Scientific Visualization · C/C++ Systems Programming · Data Structures & Algorithms · Malware Analysis
+**Key Coursework:** Data Analytics · Statistical Learning · Deep Learning · Computer Vision · Operating Systems · Database Systems · Scientific Visualization · C/C++ Systems Programming · Data Structures & Algorithms · Malware Analysis
 
 <br>
 
@@ -326,6 +337,7 @@ LangChain-powered CLI assistant for **local document Q&A** with vector retrieval
 
 <p align="center">
   <a href="https://cailucky777.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-cailucky777.github.io-FF5722?style=for-the-badge"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/savina-cai/"><img src="https://img.shields.io/badge/LinkedIn-Savina_Cai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/cailucky777"><img src="https://img.shields.io/badge/GitHub-cailucky777-181717?style=for-the-badge&logo=github"/></a>&nbsp;
   <a href="mailto:savinacai@gmail.com"><img src="https://img.shields.io/badge/Gmail-savinacai-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
