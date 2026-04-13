@@ -4,7 +4,7 @@
 
 <!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Savina%20(Luying)%20Cai&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=USC%20%7C%20Software%20Engineer%20%7C%20AI%20Researcher%20%7C%20Data%20Analyst%20%7C%20CS%20Educator&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Savina%20(Luying)%20Cai&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=UOregon%20%E2%86%92%20USC%20%E2%86%92%20BCIT%20%7C%20SDE%20%7C%20AI%20Researcher%20%7C%20Data%20Analyst&descAlignY=52&descSize=18" width="100%"/>
 </p>
 
 <!-- TYPING SVG -->
