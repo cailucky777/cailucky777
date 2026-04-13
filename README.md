@@ -51,11 +51,11 @@ current_roles:
   - 👩‍🏫 CS Educator — Open-source K-12 curriculum (Swift, Unity, Python)
 
 currently_building:
+  - 🔥 Wildfire Prediction System — dynamic model switching for real-time CV inference
+  - ☁️ Salesforce CRM — enterprise AI integration (upcoming internship)
   - 🧠 LLM-powered Agentic Workflows (LangChain + Claude/GPT APIs)
   - 🏙️ Vancouver City Brain — urban intelligence with geospatial ML
   - 🔍 RAG Document Assistant — vector retrieval + source citation
-  - 🌍 TeamSync Polyglot — real-time meeting AI with Google Gemma
-  - 📚 Open-source CS curriculum for K-12 students
 
 open_to: "Full-Stack AI Engineer · ML Engineer · Software Engineer"
 fun_fact: "I ship AI products on weekdays and teach kids to code on weekends 😄"
@@ -335,10 +335,10 @@ Static malware analysis using **LightGBM** (EMBER) & **ResNet-18** (Malimg) with
 ## 🔥 What I'm Currently Up To
 
 ```text
-🤖 Building       LLM-powered Agentic AI systems (LangChain + Claude/GPT APIs)
+🔥 Building       Wildfire prediction — dynamic model switching for real-time CV
+☁️ Incoming       Salesforce CRM internship — enterprise AI integration
+🤖 Shipping       LLM Agentic AI systems (LangChain + RAG + Claude/GPT APIs)
 🏙️ Scaling        Vancouver City Brain — geospatial ML at urban scale
-🔬 Research       Explainable AI — SHAP + Grad-CAM for model interpretability
-🌍 Shipping       Full-stack AI products (Next.js + LLM integration)
 📚 Teaching       K-12 students Swift, Unity, and computational thinking
 🎯 Open to        Full-Stack AI Engineer · ML Engineer · SDE opportunities
 ```
