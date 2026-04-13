@@ -44,19 +44,21 @@ education:  # chronological order
     focus: Applied AI, Data Science, Cybersecurity
 
 current_roles:
+  - 🤖 Full-Stack AI Engineer — LLM Agents, RAG Pipelines, End-to-End ML Systems
   - 🔬 AI/ML Researcher — Explainable AI, Computer Vision, Medical Imaging
-  - 📊 Data Analyst — Statistical Modeling, Predictive Analytics, Visualization
-  - 💻 Full-Stack Engineer — Next.js, React, TypeScript, Swift
-  - 📱 iOS Developer — SwiftUI, ARKit, RealityKit
-  - 🛡️ Security Analyst — Static/Dynamic Malware Analysis
-  - 👩‍🏫 K-12 CS Educator — Teaching Swift, Unity, Python to the next generation
+  - 📊 Data Scientist — Statistical Modeling, Predictive Analytics (USC-trained)
+  - 💻 Full-Stack Developer — Next.js, React, TypeScript, Python, Swift
+  - 👩‍🏫 CS Educator — Open-source K-12 curriculum (Swift, Unity, Python)
 
-currently_working_on:
-  - Explainable Malware Detection with SHAP & Grad-CAM
-  - Agentic AI Workflows with LangChain & LLMs
-  - Open-source teaching resources for K-12 CS education
+currently_building:
+  - 🧠 LLM-powered Agentic Workflows (LangChain + Claude/GPT APIs)
+  - 🏙️ Vancouver City Brain — urban intelligence with geospatial ML
+  - 🔍 RAG Document Assistant — vector retrieval + source citation
+  - 🌍 TeamSync Polyglot — real-time meeting AI with Google Gemma
+  - 📚 Open-source CS curriculum for K-12 students
 
-fun_fact: "I debug with print statements and I'm not ashamed 😄"
+looking_for: "Full-Stack AI Engineer roles at top tech companies 🚀"
+fun_fact: "I ship AI products AND teach kids to code — yes, both 😄"
 ```
 
 <br>
@@ -138,30 +140,56 @@ fun_fact: "I debug with print statements and I'm not ashamed 😄"
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Featured Projects
 
+<!-- ROW 1: LLM / AI Agent projects — the crown jewels -->
 <table>
 <tr>
+<td width="50%">
+
+### 🤖 Local Docs Agent (RAG)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/cailucky777/local-docs-agent)
+
+LangChain-powered CLI assistant for **local document Q&A** with **vector retrieval** (FAISS), source citations, and multi-format support (PDF/MD/TXT). End-to-end **RAG pipeline**.
+
+`Python` `LangChain` `FAISS` `RAG` `LLM`
+
+</td>
+<td width="50%">
+
+### 🌍 TeamSync Polyglot — Meeting AI
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/cailucky777/teamsync-polyglot)
+
+**Full-stack AI product**: offline-ready meeting intelligence platform with **real-time translation** powered by Next.js + **Google Gemma** LLM integration.
+
+`TypeScript` `Next.js` `Gemma LLM` `Full-Stack AI`
+
+</td>
+</tr>
+
+<!-- ROW 2: ML / CV research -->
+<tr>
+<td width="50%">
+
+### 🏙️ Vancouver City Brain
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/cailucky777/vancouver-city-brain)
+
+**Urban intelligence system** — geospatial machine learning for city-level data analysis, traffic patterns, and resource optimization at scale.
+
+`Python` `Geospatial ML` `Data Engineering` `Analytics`
+
+</td>
 <td width="50%">
 
 ### 🔬 Explainable Malware Detection
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/cailucky777/malware-detection-explainable-ml)
 
-Static malware analysis using **LightGBM** (EMBER) & **ResNet-18** (Malimg) with **SHAP** & **Grad-CAM** for model interpretability in cybersecurity.
+Static malware analysis using **LightGBM** (EMBER) & **ResNet-18** (Malimg) with **SHAP** & **Grad-CAM** for model interpretability.
 
-`Python` `LightGBM` `PyTorch` `SHAP` `Grad-CAM`
-
-</td>
-<td width="50%">
-
-### 🌍 TeamSync Polyglot
-[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/cailucky777/teamsync-polyglot)
-
-Offline-ready meeting intelligence platform with **real-time translation** powered by Next.js and **Google Gemma** LLM.
-
-`TypeScript` `Next.js` `Gemma` `WebRTC`
+`Python` `LightGBM` `PyTorch` `SHAP` `XAI`
 
 </td>
 </tr>
 
+<!-- ROW 3: CV + Education -->
 <tr>
 <td width="50%">
 
@@ -170,42 +198,19 @@ Offline-ready meeting intelligence platform with **real-time translation** power
 [![Blood Cell](https://img.shields.io/badge/Blood_Cell-YOLOv8-green?style=flat-square)](https://github.com/cailucky777/mini-project-7)
 [![Segmentation](https://img.shields.io/badge/Disaster-UNet-green?style=flat-square)](https://github.com/cailucky777/mini-project-8)
 
-**3 deep learning projects** in medical/disaster imaging: CNN pneumonia detection, YOLOv8 blood cell detection, U-Net semantic segmentation.
+**3 deep learning projects**: CNN pneumonia detection, YOLOv8 blood cell detection, U-Net disaster semantic segmentation.
 
 `PyTorch` `YOLOv8` `U-Net` `Computer Vision`
 
 </td>
 <td width="50%">
 
-### 🤖 Local Docs Agent (RAG)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/cailucky777/local-docs-agent)
-
-LangChain-powered CLI assistant for **local document Q&A** with vector retrieval, source citations, and support for PDF/MD/TXT.
-
-`Python` `LangChain` `FAISS` `RAG`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 GeekResources (K-12 Teaching Hub)
+### 📚 GeekResources — Open-Source CS Curriculum
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/cailucky777/GeekResources)
 
-**Open-source curriculum** for K-12 CS education: Swift fundamentals, SwiftUI app development, Unity game dev, AR/ARKit, API integration, competitive programming.
+**47-file teaching hub** for K-12 CS education: Swift, SwiftUI, Unity, AR/ARKit, API integration, competitive programming. Used in real classrooms.
 
 `Swift` `SwiftUI` `Unity` `ARKit` `Education`
-
-</td>
-<td width="50%">
-
-### 🎨 Scientific Visualization Engine
-[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/cailucky777/CIS410)
-
-**C++ visualization engine** implementing isosurfacing, streamlines, and volume rendering algorithms for scientific data exploration.
-
-`C++` `OpenGL` `VTK` `Scientific Computing`
 
 </td>
 </tr>
@@ -324,12 +329,12 @@ LangChain-powered CLI assistant for **local document Q&A** with vector retrieval
 ## 🔥 What I'm Currently Up To
 
 ```text
-🔬 Research       Explainable AI for cybersecurity — SHAP + Grad-CAM on malware classifiers
-🤖 Building       Agentic AI workflows with LangChain & Claude API
-📱 Shipping       iOS apps with SwiftUI + ARKit + Core ML
+🤖 Building       LLM-powered Agentic AI systems (LangChain + Claude/GPT APIs)
+🏙️ Scaling        Vancouver City Brain — geospatial ML at urban scale
+🔬 Research       Explainable AI — SHAP + Grad-CAM for model interpretability
+🌍 Shipping       Full-stack AI products (Next.js + LLM integration)
 📚 Teaching       K-12 students Swift, Unity, and computational thinking
-🏗️ Contributing   Open-source educational resources & developer tools
-🎯 Preparing      For SDE / ML Engineer roles at top-tier tech companies
+🎯 Targeting      Full-Stack AI Engineer roles at top-tier tech companies
 ```
 
 <br>
@@ -346,7 +351,7 @@ LangChain-powered CLI assistant for **local document Q&A** with vector retrieval
 </p>
 
 <p align="center">
-  <b>💬 Open to:</b> SDE / ML Engineer / iOS Developer roles · Research collaborations · Open-source contributions · Speaking & mentoring
+  <b>💬 Open to:</b> Full-Stack AI Engineer / ML Engineer / SDE roles · AI Research collaborations · Open-source contributions · Mentoring
 </p>
 
 <br>
