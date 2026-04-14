@@ -51,11 +51,10 @@ current_roles:
   - 👩‍🏫 CS Educator — Open-source K-12 curriculum (Swift, Unity, Python)
 
 currently_building:
-  - 🔥 Wildfire Prediction System — dynamic model switching for real-time CV inference
-  - ☁️ Salesforce CRM — enterprise AI integration (upcoming internship)
-  - 🧠 LLM-powered Agentic Workflows (LangChain + Claude/GPT APIs)
+  - 🔥 Serverless Risk-Aware Model Routing — adaptive YOLO inference based on real-time fire risk (CWFIS)
+  - 🧠 AI-Powered Sales Intelligence — LLM integration with Salesforce CRM (Mitacs Research Intern @ Blue Pearl Financial)
   - 🏙️ Vancouver City Brain — urban intelligence with geospatial ML
-  - 🔍 RAG Document Assistant — vector retrieval + source citation
+  - 🔍 RAG Document Assistant — vector retrieval + source citation via LangChain
 
 open_to: "Full-Stack AI Engineer · ML Engineer · Software Engineer"
 fun_fact: "I ship AI products on weekdays and teach kids to code on weekends 😄"
@@ -335,12 +334,11 @@ Static malware analysis using **LightGBM** (EMBER) & **ResNet-18** (Malimg) with
 ## 🔥 What I'm Currently Up To
 
 ```text
-🔥 Building       Wildfire prediction — dynamic model switching for real-time CV
-☁️ Incoming       Salesforce CRM internship — enterprise AI integration
-🤖 Shipping       LLM Agentic AI systems (LangChain + RAG + Claude/GPT APIs)
+🔥 Building       Serverless risk-aware model routing — YOLO11n/YOLOv9m adaptive wildfire inference
+🧠 Researching    LLM + Salesforce CRM integration (Mitacs intern @ Blue Pearl Financial)
 🏙️ Scaling        Vancouver City Brain — geospatial ML at urban scale
 📚 Teaching       K-12 students Swift, Unity, and computational thinking
-🎯 Open to        Full-Stack AI Engineer · ML Engineer · SDE opportunities
+🎯 Open to        Full-Stack AI Engineer · ML Engineer · Applied Scientist opportunities
 ```
 
 <br>
